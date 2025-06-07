@@ -1,0 +1,146 @@
+/* body {
+    margin: 5px;
+    padding: 5px;
+  } */
+h1{
+  font-size: 65px !important;
+}
+.navigation-bar {
+  height: 70px;
+  width: 100%;
+  text-align:center;
+}
+.navigation-bar img{
+  float:right;
+}
+.navigation-bar ul {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:middle;
+}
+.navigation-bar li {
+  list-style-type: none;
+  padding: 0px;
+  height: 24px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  display: inline;
+}
+.navigation-bar li a {
+  font-size: 16px;
+  text-decoration: none;
+  line-height: 70px;
+  padding: 5px 40px;
+  opacity: 0.7;
+}
+#menu {
+    float: right;
+}
+h3{  
+  font-weight: bold !important;
+}
+.shadow{   
+  box-shadow: 2px;
+  border-radius: 5px;
+}
+.expert{
+  background-color: rgb(25, 140, 222);
+  margin-top: 5px;
+  border: 2px rgb(25, 140, 222);
+  border-radius: 20px;
+}
+.footer{
+  background-color: #f58634;
+}
+.end{
+  display: inline-block;
+  width: 20% !important;
+  border-radius: 15px;
+}
+.endl{
+  display: inline-block;
+  width: 15% !important;
+}
+.fluid{
+  display: flex;
+}
+.button1{
+  color: white;
+  background-color: rgb(29, 182, 233);
+}
+.button2{
+  color: black; 
+}
+.button2:hover {
+  background-color: rgb(29, 182, 233);
+  color: white;
+}
+.background{
+  background-color: rgba(0, 0, 0, 0.014);
+}
+.zoom:hover {
+  transform: scale(0.9);
+  transition: transform 0.6s ;
+}
+.footerbackground{
+  background-color: #1e293b;
+  color: white;
+}
+.button3 {
+  padding: 7px;
+  background-color: white;
+  color: rgb(29, 182, 233);
+  border-radius: 5px;
+}
+.button3:hover {
+  background-color: #f58634;
+  color: white;
+  border-radius: 5px;
+}
+.button4 {
+  padding: 7px;
+  background-color: white;
+  color: #f58634;
+  border-radius: 5px;
+}
+.button4:hover {
+  padding: 7px;
+  background-color: #0098da;
+  color: white;
+  border-radius: 5px;
+}
+.button5 {
+  padding: 7px;
+  background-color: #f58634;
+  color: white;  
+  border-radius: 5px;
+}
+.button5:hover {
+  padding: 7px;
+  background-color: #0098da;
+  color: white;
+  border-radius: 5px;
+}
+.button6 {
+  padding: 6px;
+  background-color: #0098da;
+  color: white ;
+  border-radius: 5px;
+}
+/* .bgimg{
+  background-image: url("images/Footer-img.jpg");
+  background-position: center;
+  background-size: cover;
+
+} */
+.b1{
+  color: rgb(29, 182, 233);
+}
+.b1:hover{
+  color: #f58634;
+}
+/* .b2{
+  margin-right: 20px;
+} */
